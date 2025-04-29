@@ -13,6 +13,8 @@
 
 <p><img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="20px" /> Off-duty:<br>You’ll catch me playing volleyball, learning a new song on the piano, or spending time with friends and family.</p>
 
+<h3><img src="https://em-content.zobj.net/source/microsoft-teams/363/writing-hand_light-skin-tone_270d-1f3fb_1f3fb.png" width="24px" /> I also have a recently created <a href="https://albanablog.netlify.app">personal blog</a> if you'd like to check it out! Feel free to leave a comment or email me :)</h3>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/albana-meloni-203927238) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/albana-meloni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:melonialbana@gmail.com) 
 
