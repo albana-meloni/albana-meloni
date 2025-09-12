@@ -1,19 +1,12 @@
 <h1 align="center"> Hi! I'm Albi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="50px" /></h1>
-<p align="center">Frontend developer + creative mind, crafting beautiful and functional digital spaces.</p>
+<p align="center">Frontend developer + creative mind, crafting beautiful and functional digital solutions.</p>
 <br>
 
 <img align="right" src="https://i.pinimg.com/originals/cb/03/fc/cb03fc13380e884302f182cfcf96882b.gif" />
-<p><img src="https://em-content.zobj.net/source/microsoft-teams/363/mushroom_1f344.png" width="20px" /> Current project:<br>Building <strong>Focushroom</strong> — a cozy pomodoro app with a mushroom twist, made with React.</p>
+<p><img src="https://em-content.zobj.net/source/microsoft-teams/363/mushroom_1f344.png" width="20px" /> Current project:<br>Building <strong><a href="https://atenea-fitness.vercel.app" target="_blank">Atenea</a></strong> — a fitness app for women, developed with Next.js.</p>
 
 <p><img src="https://em-content.zobj.net/source/microsoft-3D-fluent/406/handshake_light-skin-tone_1f91d-1f3fb_1f3fb.png" width="20px" /> Looking to team up on:<br>Fun, design-driven web and mobile projects.</p>
 
-<p><img src="https://em-content.zobj.net/source/microsoft-teams/363/seedling_1f331.png" width="20px" /> Leveling up in:<br>Development with React and discovering React Native with Expo.</p>
-
-<p><img src="https://em-content.zobj.net/source/microsoft-teams/363/direct-hit_1f3af.png" width="20px" /> Ask me about:<br>Building interfaces, shaping brands, and mastering productivity.</p>
-
-<p><img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="20px" /> Off-duty:<br>You’ll catch me playing volleyball, learning a new song on the piano, or spending time with friends and family.</p>
-
-<h3><img src="https://em-content.zobj.net/source/microsoft-teams/363/writing-hand_light-skin-tone_270d-1f3fb_1f3fb.png" width="24px" /> I also have a recently created <a href="https://albanablog.netlify.app" target="_blank">personal blog</a> if you'd like to check it out! Feel free to leave a comment or email me :)</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/albana-meloni-203927238) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/albana-meloni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:melonialbana@gmail.com) 
