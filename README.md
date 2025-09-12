@@ -2,8 +2,8 @@
 <p align="center">Frontend developer + creative mind, crafting beautiful and functional digital solutions.</p>
 <br>
 
-<img align="right" src="https://em-content.zobj.net/source/microsoft-teams/363/mushroom_1f344.png" />
-<p><img src="https://em-content.zobj.net/source/microsoft-teams/363/mushroom_1f344.png" width="20px" /> Current project:<br>Building <strong><a href="https://atenea-fitness.vercel.app" target="_blank">Atenea</a></strong> — a fitness app for women, developed with Next.js.</p>
+<img align="right" src="https://i.pinimg.com/originals/cb/03/fc/cb03fc13380e884302f182cfcf96882b.gif" />
+<p><img src="https://em-content.zobj.net/source/samsung/411/lotus_1fab7.png" width="20px" /> Current project:<br>Building <strong><a href="https://atenea-fitness.vercel.app" target="_blank">Atenea</a></strong> — a fitness app for women, developed with Next.js.</p>
 
 <p><img src="https://em-content.zobj.net/source/microsoft-3D-fluent/406/handshake_light-skin-tone_1f91d-1f3fb_1f3fb.png" width="20px" /> Looking to team up on:<br>Fun, design-driven web and mobile projects.</p>
 
