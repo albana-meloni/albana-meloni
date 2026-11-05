@@ -15,7 +15,7 @@
 
 <p>🎓 <strong>Mi misión:</strong><br>
     Formar mujeres que quieren su primer trabajo en tech<br>
-    Mentoring 1:1 · Contenido en <a href="https://instagram.com/albi.meloni">@albi.meloni</a>
+    Mentoring 1:1 · Contenido en <a href="https://instagram.com/albana.dev">@albana.dev</a>
 </p>
 
 <p>🫂 <strong>Abierta a:</strong><br>
